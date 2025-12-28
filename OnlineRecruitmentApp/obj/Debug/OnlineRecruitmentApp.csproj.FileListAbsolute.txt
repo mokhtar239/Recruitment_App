@@ -1,0 +1,7 @@
+C:\Users\TUF A15\Downloads\OnlineRecruitmentApp_Improved\OnlineRecruitmentApp\bin\Debug\OnlineRecruitmentApp.exe.config
+C:\Users\TUF A15\Downloads\OnlineRecruitmentApp_Improved\OnlineRecruitmentApp\bin\Debug\OnlineRecruitmentApp.exe
+C:\Users\TUF A15\Downloads\OnlineRecruitmentApp_Improved\OnlineRecruitmentApp\bin\Debug\OnlineRecruitmentApp.pdb
+C:\Users\TUF A15\Downloads\OnlineRecruitmentApp_Improved\OnlineRecruitmentApp\obj\Debug\OnlineRecruitmentApp.csproj.AssemblyReference.cache
+C:\Users\TUF A15\Downloads\OnlineRecruitmentApp_Improved\OnlineRecruitmentApp\obj\Debug\OnlineRecruitmentApp.csproj.CoreCompileInputs.cache
+C:\Users\TUF A15\Downloads\OnlineRecruitmentApp_Improved\OnlineRecruitmentApp\obj\Debug\OnlineRecruitmentApp.exe
+C:\Users\TUF A15\Downloads\OnlineRecruitmentApp_Improved\OnlineRecruitmentApp\obj\Debug\OnlineRecruitmentApp.pdb
